@@ -34,6 +34,9 @@ Agile methodology offers several key advantages in project management:
 
 Statistics and case studies support Agile's success across industries. For instance, the 12th "State of Agile Report" by VersionOne revealed that 98% of respondents reported success with Agile projects, with 74% indicating more than half of their Agile projects had been successful[^2].
 
+![Agile report](/agile-blog/assets/img/agile1.png){: .mx-auto.d-block :}
+*Graphic courtesy of [pm-partners](https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/)*
+
 In summary, Agile methodology offers flexibility, faster delivery, customer-centricity, and adaptability—key attributes for achieving project success in today's dynamic business landscape.
 
 ## When to Use Agile
@@ -47,7 +50,7 @@ Understanding when to use Agile is essential for harnessing its benefits effecti
 In the realm of software development, **Scrum** is a widely adopted Agile framework.[^3] Teams using Scrum work in time-boxed iterations called sprints, making it easier to manage changing requirements and deliver value incrementally.
 
 ![Scrum](/agile-blog/assets/img/scrum-process.jpg){: .mx-auto.d-block :}
-*Graphic courtesy of [pm-partners](https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/)*
+*Graphic courtesy of [VersionOne](https://www.qagile.pl/wp-content/uploads/2018/04/versionone-12th-annual-state-of-agile-report.pdf)*
 
 In conclusion, Agile methodology is most effective in projects characterized by complexity, changing requirements, customer collaboration, and innovation.
 
