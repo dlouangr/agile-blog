@@ -2,9 +2,7 @@
 layout: post
 title: Navigating the Agile Waters
 subtitle: When to Embrace and When to Avoid Agile Methodology
-cover-img: /agile-blog/assets/img/banner1.jpg
-thumbnail-img: /assets/img/drawer.jpg
-share-img: /agile-blog/assets/img/banner1.jpg
+cover-img: assets/img/banner1.jpg
 tags: [agile]
 ---
 
