@@ -34,7 +34,7 @@ Agile methodology offers several key advantages in project management:
 
 Statistics and case studies support Agile's success across industries. For instance, the 12th "State of Agile Report" by VersionOne revealed that 98% of respondents reported success with Agile projects, with 74% indicating more than half of their Agile projects had been successful[^2].
 
-![Agile report](/agile-blog/assets/img/agile1.png){: .mx-auto.d-block :}
+![Agile report](/agile-blog/assets/img/agile1.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [pm-partners](https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/)*
 
 In summary, Agile methodology offers flexibility, faster delivery, customer-centricity, and adaptability—key attributes for achieving project success in today's dynamic business landscape.
