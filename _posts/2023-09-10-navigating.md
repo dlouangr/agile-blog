@@ -86,3 +86,8 @@ Empower yourself as an Agile project manager or Scrum master by applying this kn
 [^1]: "The Agile Manifesto." [Agile Alliance](https://www.agilealliance.org/agile101/the-agile-manifesto/).
 [^2]: "State of Agile Report." [VersionOne](https://www.qagile.pl/wp-content/uploads/2018/04/versionone-12th-annual-state-of-agile-report.pdf).
 [^3]: "What is scrum and how to get started." [Atlassian](https://www.atlassian.com/agile/scrum).
+  
+  
+~~~
+Banner image generated using Stable Diffusion by Dominique Louangrath
+~~~
