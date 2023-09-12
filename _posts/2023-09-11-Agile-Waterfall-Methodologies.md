@@ -34,7 +34,7 @@ Waterfall is less adaptable to changing requirements. Any significant modificati
 5. Well-Defined Milestones
 In the Waterfall methodology, well-defined milestones mark the completion of each phase. These milestones provide clear checkpoints for progress assessment and help ensure that the project stays on track.
 
-![Agile vs Waterfall](assets/img/Adobe-Agile-vs-waterfall-1024x512.jpg){: .mx-auto.d-block :}
+![Agile vs Waterfall]/agile-blog/assets/img/Adobe-Agile-vs-waterfall-1024x512.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [TechnologyAdvice](https://technologyadvice.com/blog/information-technology/what-is-agile-project-management/)*
 
 ## Key Differences Between Agile and Waterfall
