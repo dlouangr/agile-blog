@@ -89,4 +89,4 @@ Emphasize developing the necessary abilities and mindset to succeed in Agile pro
 ## Resources
 [^1]: "The 9 Key Benefits of Using the Agile Methodology" [Kissflow](https://kissflow.com/project/agile/benefits-of-agile/)
 [^2]: "A Complete In-Depth Guide on Agile Development Methodology" [Digitalogy](https://blog.digitalogy.co/a-complete-in-depth-guide-on-agile-development-methodology/)
-[^3] "10 Most Important Benefits of Implementing Agile" [Elpassion](https://www.elpassion.com/blog/10-benefits-of-agile)
+[^3]: "10 Most Important Benefits of Implementing Agile" [Elpassion](https://www.elpassion.com/blog/10-benefits-of-agile)
