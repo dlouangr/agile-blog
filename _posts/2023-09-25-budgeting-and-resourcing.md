@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Effective Project Budget and Resource Allocation Monitoring for Project Managers
-cover-img: assets/img/banner1.jpg
+cover-img: assets/img/capital-budgeting.jpg
 tags: [budgeting,agile]
 ---
 
@@ -25,9 +25,11 @@ Setting a realistic budget that matches project goals is crucial. It helps alloc
 
 Resource allocation is a vital part of successful project management. It involves strategically distributing different resources to meet project goals. These resources can be divided into three main categories: human resources, equipment, and technology.
 
-Human resources are the individuals involved in the project, including project managers, team members, and stakeholders. Their allocation involves assigning tasks, responsibilities, and workloads effectively to ensure that the right skills are applied at the right time.
-Equipment encompasses physical assets necessary for project execution, such as machinery, vehicles, and tools. Allocating equipment efficiently ensures that essential tools are available when needed, minimizing downtime and delays.
-Technology resources refer to software, hardware, and digital tools essential for project tasks. Efficient allocation of technology resources ensures seamless communication, data management, and task execution, enhancing overall project efficiency.
+**Human resources** are the individuals involved in the project, including project managers, team members, and stakeholders. Their allocation involves assigning tasks, responsibilities, and workloads effectively to ensure that the right skills are applied at the right time.
+
+**Equipment** encompasses physical assets necessary for project execution, such as machinery, vehicles, and tools. Allocating equipment efficiently ensures that essential tools are available when needed, minimizing downtime and delays.
+
+**Technology resources** refer to software, hardware, and digital tools essential for project tasks. Efficient allocation of technology resources ensures seamless communication, data management, and task execution, enhancing overall project efficiency.
 
 ![Resource Allocation](/agile-blog/assets/img/planning_and_resource_allocation.png){: .mx-auto.d-block :}
 *Graphic courtesy of [Lane Community College](https://www.lanecc.edu/about-lane/institutional-effectiveness/resource-allocation-and-budget-development)*
@@ -39,7 +41,7 @@ Resource allocation, in a nutshell, is all about strategically distributing huma
 
 Budget and resource monitoring in project management come with their fair share of challenges, often posing hurdles for project managers striving to align these aspects with project scope and objectives.
 
-One common challenge is scope creep, which refers to "the uncontrolled expansion to project scope without adjustments to time, cost, and resources."[^2] This can strain budgets and resources as additional work often requires extra funding and resources, threatening alignment with the project's original scope.
+One common challenge is **scope creep**, which refers to "the uncontrolled expansion to project scope without adjustments to time, cost, and resources."[^2] This can strain budgets and resources as additional work often requires extra funding and resources, threatening alignment with the project's original scope.
 
 Unexpected expenses are another hurdle. Unforeseen costs, such as equipment breakdowns or regulatory changes, can disrupt budget planning, making it challenging to stay on course with the allocated financial resources.
 
@@ -51,10 +53,13 @@ In essence, these challenges directly relate to the objective of ensuring alignm
 
 Below are just a few of the tools and methodologies available to project managers for effective budget monitoring and resource allocation. Don't hesitate to explore these options and discover which ones work best for your unique project needs. With the right tools in your toolkit, you'll be well-equipped to steer your projects towards success while aligning budgets and resources seamlessly with your project objectives!
 
-Project Management Software: Tools like Microsoft Project, Asana, and Trello are software solutions that help project managers plan, track, and manage projects. They allow you to create budgets, assign resources to tasks, and monitor progress in real-time.[^3]
-Agile Methodologies: Agile frameworks, such as Scrum and Kanban, are project management approaches that focus on flexibility and collaboration. They enable teams to adapt to changing project requirements and allocate resources based on immediate priorities.
-Resource Management Tools: Tools like Resource Guru and Float are specialized software that helps you manage and allocate your team's time effectively. They provide a clear view of who is available, their workloads, and scheduling to ensure resources align with project goals. (Source: Resource Guru and Float)
-Performance Evaluation Techniques (EVM): Earned Value Management (EVM) is a method to assess project performance by comparing planned and actual progress. It helps project managers monitor budget and resource allocation by evaluating if you're getting the value you expected from the resources invested.[^4]
+1. **Project Management Software**: Tools like Microsoft Project, Asana, and Trello are software solutions that help project managers plan, track, and manage projects. They allow you to create budgets, assign resources to tasks, and monitor progress in real-time.[^3]
+
+2. **Agile Methodologies**: Agile frameworks, such as Scrum and Kanban, are project management approaches that focus on flexibility and collaboration. They enable teams to adapt to changing project requirements and allocate resources based on immediate priorities.
+
+3. **Resource Management Tools**: Tools like Resource Guru and Float are specialized software that helps you manage and allocate your team's time effectively. They provide a clear view of who is available, their workloads, and scheduling to ensure resources align with project goals. (Source: Resource Guru and Float)
+
+4. **Performance Evaluation Techniques (EVM)**: Earned Value Management (EVM) is a method to assess project performance by comparing planned and actual progress. It helps project managers monitor budget and resource allocation by evaluating if you're getting the value you expected from the resources invested.[^4]
 
 ![Asana Example](/agile-blog/assets/img/asana-planning.png){: .mx-auto.d-block :}
 *Graphic courtesy of [Asana](https://asana.com/resources/project-budget)*
@@ -76,5 +81,5 @@ In conclusion, aligning budget and resources with project objectives is fundamen
   
   
 ~~~
-Banner image generated using Stable Diffusion by Dominique Louangrath
+Banner image courtesy of [Happay](https://happay.com/blog/capital-budgeting/)
 ~~~
