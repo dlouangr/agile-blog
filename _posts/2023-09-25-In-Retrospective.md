@@ -22,6 +22,11 @@ There are various retrospective formats to choose from, such as Start-Stop-Conti
 
 ## 3. Timeboxing the Discussion
 
+![Time Boxing](/agile-blog/assets/img/Time-Boxing.png){: .mx-auto.d-block :}
+*Graphic courtesy of [Clockwise]
+(https://assets.website-files.com/634681057b887c6f4830fae2/6367dd4a26b9af2089507a6f_6259f844625eef1e06aa276c_time-blocking.png)*
+
+
 Similar to the retrospective, timeboxing is crucial to every Agile custom. Give the retrospective a certain length of time for each phase; for example, you might spend 10-15 minutes on each of the following phases[^2]:
 
 - Gather Data: In this phase, team members share their observations and experiences from the sprint.
@@ -48,7 +53,7 @@ Only when team members openly and honestly share their experiences, difficulties
 
 ![Visual Aid](/agile-blog/assets/img/Visual-Aid.png){: .mx-auto.d-block :}
 *Graphic courtesy of [Wikimedia]
-(https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg)
+(https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg)*
 
 Visual aids might make looking back more enjoyable. To assist the team in visualizing data, insights, and action items, think about employing tools like whiteboards, sticky notes, or digital collaboration platforms. Complex information can be more easily understood and recalled when it can be seen visually.
 
