@@ -38,7 +38,7 @@ so you can develop risk mitigation tactics and develop strategies to keep your p
 
 3. **Resource Optimization**: Combining these two definitions for your projects allows you to distribute your resources efficiently. This 
 results in personnel used in a optimized fashion to complete their tasks, clear view on the spending for your project, and the correct 
-tools or technology needed for your project goals.
+tools or technology needed for your project goals.[^3]
 
 As you can see, defining the project scope and constraint gives your team and you as a project manager a clear understanding on how you
 should proceed with the project to complete your stakeholders requirements. Personally, getting the information required to begin the 
@@ -57,7 +57,7 @@ the project scopes and constraints.
 
 2. **Document Everything**: As you progress through your project, you will notice the gradual increase of clarity on your project scope
 and what you need to do to complete your project goals. It is important that you document every sprint or process that occurs, this will
-be your reference point throughout your project life cycle.
+be your reference point throughout your project life cycle.[^2]
 
 3. **Prioritize Requirements**: Categorize the requirements based on the stakeholders priorities of what the project should have or what 
 should be the main features for the project. There needs to be some critical elements in the project that gives it meaning or purpose, so 
@@ -65,7 +65,7 @@ you are not distracted with the extra information that could change your project
 
 4. **Set Clear Sprint Goals**: While you are scheduling your project and planning out how much time you are going to spend during your
 project scope management processes, it would be to your benefit that you have goals in place to what you are going to achieve within a 
-given timeframe and what you expect to be completed. Be specific!
+given timeframe and what you expect to be completed. Be specific![^3]
 
 5. **Regularly Review and Adjust**: The best practice throughout a project life cycle is to regurlarly check with the stakeholders of the
 project. Project scopes or constraints can change at any stage of the project scope management processes so it is important to make the 
