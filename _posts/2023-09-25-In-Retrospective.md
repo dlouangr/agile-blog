@@ -18,13 +18,12 @@ Setting the stage for success is crucial before going into the retrospective its
 
 ## 2. Choosing the Right Format
 
-There are various retrospective formats to choose from, such as Start-Stop-Continue, 4Ls (Liked, Learned, Lacked, Longed for), or the Mad-Sad-Glad retrospective[^3]. Choose a format that is compatible with the dynamics of your team and your specific goals. Remember that you can vary the format from sprint to sprint to keep things fresh..
+There are various retrospective formats to choose from, such as Start-Stop-Continue, 4Ls (Liked, Learned, Lacked, Longed for), or the Mad-Sad-Glad retrospective[^3]. Choose a format that is compatible with the dynamics of your team and your specific goals. Remember that you can vary the format from sprint to sprint to keep things fresh.
 
 ## 3. Timeboxing the Discussion
 
 ![Time Boxing](/agile-blog/assets/img/Time-Boxing.png){: .mx-auto.d-block :}
-*Graphic courtesy of [Clockwise]
-(https://assets.website-files.com/634681057b887c6f4830fae2/6367dd4a26b9af2089507a6f_6259f844625eef1e06aa276c_time-blocking.png)*
+*Graphic courtesy of [Clockwise](https://assets.website-files.com/634681057b887c6f4830fae2/6367dd4a26b9af2089507a6f_6259f844625eef1e06aa276c_time-blocking.png)*
 
 
 Similar to the retrospective, timeboxing is crucial to every Agile custom. Give the retrospective a certain length of time for each phase; for example, you might spend 10-15 minutes on each of the following phases[^2]:
@@ -52,8 +51,7 @@ Only when team members openly and honestly share their experiences, difficulties
 ## 7. Use Visual Aids
 
 ![Visual Aid](/agile-blog/assets/img/Visual-Aid.png){: .mx-auto.d-block :}
-*Graphic courtesy of [Wikimedia]
-(https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg)*
+*Graphic courtesy of [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg)*
 
 Visual aids might make looking back more enjoyable. To assist the team in visualizing data, insights, and action items, think about employing tools like whiteboards, sticky notes, or digital collaboration platforms. Complex information can be more easily understood and recalled when it can be seen visually.
 
@@ -74,6 +72,6 @@ Remember to recognize achievements as well, even if retrospectives frequently co
 A key duty of a Scrum Master is to facilitate sprint retrospectives for scope and process improvement. You may assist your Agile team in identifying growth possibilities and continuously improving both their scope and processes by establishing a secure and structured environment, selecting the appropriate format, concentrating on specific actions, and encouraging open communication. Remember that efficient retrospectives are the foundation of continuous growth in Agile development, not just a checkbox to check in the Scrum methodology.
 
 ## Resources
-[^1]: “The Ultimate Guide to Sprint Retrospectives” [Wrike] (https://www.wrike.com/blog/ultimate-guide-sprint-retrospectives/)
-[^2]: “Timeboxing: The goal-oriented time management strategy” [Asana] (https://asana.com/resources/what-is-timeboxing)
-[^3]: “22 Types of Ideas for Sprint Retrospective Formats” [GoRetro] (https://www.goretro.ai/post/agile-retrospective-formats)
+[^1]: “The Ultimate Guide to Sprint Retrospectives” [Wrike](https://www.wrike.com/blog/ultimate-guide-sprint-retrospectives/)
+[^2]: “Timeboxing: The goal-oriented time management strategy” [Asana](https://asana.com/resources/what-is-timeboxing)
+[^3]: “22 Types of Ideas for Sprint Retrospective Formats” [GoRetro](https://www.goretro.ai/post/agile-retrospective-formats)
