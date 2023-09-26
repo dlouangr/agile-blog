@@ -72,6 +72,6 @@ Remember to recognize achievements as well, even if retrospectives frequently co
 A key duty of a Scrum Master is to facilitate sprint retrospectives for scope and process improvement. You may assist your Agile team in identifying growth possibilities and continuously improving both their scope and processes by establishing a secure and structured environment, selecting the appropriate format, concentrating on specific actions, and encouraging open communication. Remember that efficient retrospectives are the foundation of continuous growth in Agile development, not just a checkbox to check in the Scrum methodology.
 
 ## Resources
-[^1]: “The Ultimate Guide to Sprint Retrospectives” [Wrike] (https://www.wrike.com/blog/ultimate-guide-sprint-retrospectives/)
-[^2]: “Timeboxing: The goal-oriented time management strategy” [Asana] (https://asana.com/resources/what-is-timeboxing)
-[^3]: “22 Types of Ideas for Sprint Retrospective Formats” [GoRetro] (https://www.goretro.ai/post/agile-retrospective-formats)
+[^1]: “The Ultimate Guide to Sprint Retrospectives” [Wrike](https://www.wrike.com/blog/ultimate-guide-sprint-retrospectives/)
+[^2]: “Timeboxing: The goal-oriented time management strategy” [Asana](https://asana.com/resources/what-is-timeboxing)
+[^3]: “22 Types of Ideas for Sprint Retrospective Formats” [GoRetro](https://www.goretro.ai/post/agile-retrospective-formats)
