@@ -116,6 +116,6 @@ Creating and maintaining a project roadmap is not a static process but a dynamic
 
 ## References:
 
-[^1]: "Agile Roadmap." [Free PowerPoint Templates](https://www.free-power-point-templates.com/articles/free-editable-agile-roadmap-powerpoint-template/).
-[^2]: "What Does the Agile Roadmapping Process Look Like in Practice?" [ProductPlan](https://www.productplan.com/learn/agile-roadmapping-process/).
-[^3]: "What Is SMART in Project Management?" [wrike](https://www.wrike.com/project-management-guide/faq/what-is-smart-in-project-management/).
+1. “Agile Roadmap” [Free_PowerPoint_Templates] (https://www.free-power-point-templates.com/articles/free-editable-agile-roadmap-powerpoint-template/)
+2. “What Does the Agile Roadmapping Process Look Like in Practice?” [ProductPlan] (https://www.productplan.com/learn/agile-roadmapping-process/)
+3. “What Is SMART in Project Management?” [wrike] (https://www.wrike.com/project-management-guide/faq/what-is-smart-in-project-management/)
