@@ -8,7 +8,7 @@ tags: [project scope, project constraint,agile]
 As a project manager, you have the responsibility to collaborate with your stakeholders to understand what are the scope and constraints 
 of the project for yourself and your team. Being able to get all the information you need from the stakeholders is important to create
 clear and concise scopes and constraints for your project. This blog post will be going into the benefits of having a well-defined scopes
-and constraints for your project and what effective practices will help you accomplish these task.
+and constraints for your project and what effective practices will help you accomplish these task.[^2]
 
 ## Project Scope Management
 
@@ -86,4 +86,6 @@ I hope this blog post was useful and interesting as it was to me to learn more a
 ## Resources
 
 [^1]: "Project Management Statistics"[TrueList](https://truelist.co/blog/project-management-statistics/)
+[^2]: "chatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382)
+[^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)
 
