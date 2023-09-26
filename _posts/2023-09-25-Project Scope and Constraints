@@ -43,13 +43,36 @@ project goals as fast as possible, it will only leave complications in the futur
 clearly.
 
 ##The Best Practices for Defining Project Scope and Constraints
-1. **Engage with Stakeholders**: Extensive discussion is required during all the processed of project scope management between you and 
-your team with your client, company, or other various organizations that will become a part of your project. The project is for your 
-client and if their needs cannot be met will more often then not result in the contract termination between your company and client.
+1. **Engage with Stakeholders**: When engaging with stakeholders it is important to take into consideration with the variety of opinions
+who are a part of the project and make sure that everyone is on the same page to prevent any miscommunication or misunderstanding behind
+the project scopes and constraints.
 
 ![Engaging with Stakeholder](/agile-blog/assets/img/stakeholder-engagement-strategy-practical-recommendations.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [ksapa](https://ksapa.org/how-to-make-stakeholder-engagement-meaningful/)*
 
-## Resources
+2. **Document Everything**: As you progress through your project, you will notice the gradual increase of clarity on your project scope
+and what you need to do to complete your project goals. It is important that you document every sprint or process that occurs, this will
+be your reference point throughout your project life cycle.
+
+3. **Prioritize Requirements**: Categorize the requirements based on the stakeholders priorities of what the project should have or what 
+should be the main features for the project. There needs to be some critical elements in the project that gives it meaning or purpose, so 
+you are not distracted with the extra information that could change your project.
+
+4. **Set Clear Sprint Goals**: While you are scheduling your project and planning out how much time you are going to spend during your
+project scope management processes, it would be to your benefit that you have goals in place to what you are going to achieve within a 
+given timeframe and what you expect to be completed. Be specific!
+
+5. **Regularly Review and Adjust**: The best practice throughout a project life cycle is to regurlarly check with the stakeholders of the
+project. Project scopes or constraints can change at any stage of the project scope management processes so it is important to make the 
+proper adjustments to the project scope or constraints due to circumstances or stakeholders needs. 
+
+6. **Communication is Key**: Extensive discussion is required during all the processed of project scope management between you and 
+your team with your client, company, or other various organizations that will become a part of your project. The project is for your 
+client and if their needs cannot be met will more often than not result in the contract termination between your company and client.
+
+##Conclusion
+
+
+##Resources
 
 [^1]: "Project Management Statistics"[TrueList](https://truelist.co/blog/project-management-statistics/)
