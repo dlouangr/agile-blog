@@ -30,8 +30,7 @@ Now in order for these things to come into fruition, we need to have the tools a
 
 # Tutorials for Project Schedule Management
 
-1. **Agile Project Management Basics**: Agile Project Management Basics: Start with the basics. The Scrum Alliance offers a free "Agile Project Management Basics" course that covers Agile principles, roles, and ceremonies.
-   
+1. **Agile Project Management Basics**: Agile Project Management Basics: Start with the basics. The Scrum Alliance offers a free "Agile Project Management Basics" course that covers Agile principles, roles, and ceremonies.[Agile Project Management Basics](https://www.scrumalliance.org/)
 2.  **Scrum Training**: Scrum is one of the most widely used Agile frameworks. The Scrum.org website provides free Scrum training resources, including courses, assessments, and guides.
 
 3.  **Kanban Training**: Kanban Training: Kanban is another Agile framework that focuses on visualizing work and workflow. LeanKanban University offers a free "Kanban System Design" course.
