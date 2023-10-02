@@ -11,6 +11,9 @@ Welcome to the world of agile project schedule management! If you are new to Agi
 
 Project Schedule Management is the processes required to make sure the project is completed in a timely manner. Think of it as the steps you need to take in order for your planned trip or adventure to be as smooth as possible with as little bumps as possible. 
 
+![project schedule management](/agile-blog/assets/img/planning-a-road-trip.png){: .mx-auto.d-block :}
+*Graphic courtesy of [Suitcases&SippyCups](http://box5711.temp.domains/~suitcas4/2014/08/how-to-plan-a-road-trip-itinerary-step-by-step.html)*
+
 1. **Planning Schedule Management**: Think of this as setting up the game plan for your project's schedule. You decide how you'll keep track of time, who's responsible for what, and how you'll know if you're on schedule.
 2. **Defining Activities**: Imagine you're planning a road trip. Defining activities is like making a list of all the tasks you need to do before you hit the road: pack, get the car serviced, buy snacks, etc.
 3. **Sequencing Activities**: Now, you figure out the order in which these tasks need to be done. You can't buy snacks before you pack, right? Sequencing activities is like putting tasks in a logical order.
@@ -19,6 +22,9 @@ Project Schedule Management is the processes required to make sure the project i
 6. **Control Schedule**: Once you're on the road, you need to make sure you stick to your schedule. If you hit traffic or decide to stop for an unplanned lunch, you might need to adjust your plan to stay on track.
 
 In essence, project schedule management is like planning a road trip. You start by making a plan, listing tasks, arranging them in order, estimating how long they'll take, creating a schedule, monitoring your progress, and adjusting as needed to reach your destination on time. It's all about keeping your project, or in this analogy, your road trip, on track.
+
+![project schedule management](/agile-blog/assets/img/planning-a-road-trip.png){: .mx-auto.d-block :}
+*Graphic courtesy of [Suitcases&SippyCups](http://box5711.temp.domains/~suitcas4/2014/08/how-to-plan-a-road-trip-itinerary-step-by-step.html)*
 
 Now in order for these things to come into fruition, we need to have the tools and materials for your road trip to be a success. 
 
