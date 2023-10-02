@@ -28,7 +28,7 @@ In essence, project schedule management is like planning a road trip. You start 
 
 Now in order for these things to come into fruition, we need to have the tools and materials for your road trip to be a success. These tools and materials will be your assistance on your journey to understanding project scope management and develop the skills you need to survive in the project development landscape.
 
-# Tutorials for Project Schedule Management
+## Tutorials for Project Schedule Management
 
 1. **Agile Project Management Basics**: Agile Project Management Basics: Start with the basics. The Scrum Alliance offers a free "Agile Project Management Basics" course that covers Agile principles, roles, and ceremonies.[Agile Project Management Basics](https://www.scrumalliance.org/)
 2.  **Scrum Training**: Scrum is one of the most widely used Agile frameworks. The Scrum.org website provides free Scrum training resources, including courses, assessments, and guides.
@@ -36,9 +36,12 @@ Now in order for these things to come into fruition, we need to have the tools a
 3.  **Kanban Training**: Kanban Training: Kanban is another Agile framework that focuses on visualizing work and workflow. LeanKanban University offers a free "Kanban System Design" course.
 [LeanKanban University](https://www.learningtree.com/certifications/lean-kanban/)
 
-# Onboarding Materials
+## Onboarding Materials
 
 1. **Agile Manifesto**: Read the Agile Manifesto, a foundational document that outlines the core values and principles of Agile development. [Agile Manifesto](https://agilemanifesto.org/)
 2. **Agile Books**: Consider reading books like "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland or "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson.
 3. **Agile Tools**: Explore Agile project management tools like Jira, Trello, or Monday.com to see how Agile principles are applied in practice.
+4. **Microsoft Project**: Explore the Microsoft Project software which is a project manangement software. [MicroSoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+
+## Importance of Project Schedules
 
