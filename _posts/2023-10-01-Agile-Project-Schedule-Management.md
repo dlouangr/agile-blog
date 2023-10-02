@@ -9,7 +9,7 @@ Welcome to the world of agile project schedule management! If you are new to Agi
 
 ## What is Project Schedule Management?
 
-Project Schedule Management is the processes required to make sure the project is completed in a timely manner. Think of it as the steps you need to take in order for your planned trip or adventure be as smooth as possible with as little bumps as possible. 
+Project Schedule Management is the processes required to make sure the project is completed in a timely manner. Think of it as the steps you need to take in order for your planned trip or adventure to be as smooth as possible with as little bumps as possible. 
 
 1. **Planning Schedule Management**: Think of this as setting up the game plan for your project's schedule. You decide how you'll keep track of time, who's responsible for what, and how you'll know if you're on schedule.
 2. **Defining Activities**: Imagine you're planning a road trip. Defining activities is like making a list of all the tasks you need to do before you hit the road: pack, get the car serviced, buy snacks, etc.
