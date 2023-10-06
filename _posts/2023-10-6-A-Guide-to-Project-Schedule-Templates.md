@@ -43,10 +43,10 @@ Microsoft Excel is a versatile tool commonly used for project scheduling. It off
 - Search for "Project Schedule" or "Gantt Chart" templates in the available templates.
 - Choose a template that suits the project's needs and customize it accordingly.
 
-![Best Project Scheduling Templates for Excel](assets/img/Dashboard_Construction_Wide_Zoom-150-CTA.jpg){: .mx-auto.d-block :}
+![Best Project Scheduling Templates for Excel](/agile-blog/assets/img/Dashboard_Construction_Wide_Zoom-150-CTA.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [ProjectManager](https://www.projectmanager.com/blog/project-scheduling-templates)*
 
-![Gantt Chart Template](assets/img/Gantt-Chart.jpg){: .mx-auto.d-block :}
+![Gantt Chart Template](/agile-blog/assets/img/Gantt-Chart.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [ProjectManager](https://www.projectmanager.com/blog/project-scheduling-templates)*
 
 ## Online Project Management Tools:
