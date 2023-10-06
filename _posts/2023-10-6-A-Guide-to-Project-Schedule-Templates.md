@@ -1,9 +1,8 @@
 ---
 layout: post
 title: A Guide to Project Schedule Templates
-subtitle: As a beginner in project management, I want access to templates for creating project schedules to help me get started.
 cover-img: assets/img/Project-Scheduling-Steps-for-a-Successful-Management.png
-tags: [project management] [scheduling] [guide]
+tags: [project management,scheduling,guide]
 ---
 
 ## Introduction
