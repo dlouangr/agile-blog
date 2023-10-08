@@ -26,6 +26,8 @@ Well to begin your journey in Project Cost Management, you need to know what is 
 
 4. **Controlling costs**: involves controlling changes to the project budget. The main outputs of the cost control process are work performance information, cost forecasts, change requests, and project management plan updates, and project documents updates[^3]. This is something you need to address during every discussions, to be sure that everyone is doing the task that is assigned to them and helps you keep track if you are on track to completing your project within the provided time.
 
+## Facilitating Discussions Tips
+
 
 
 ## RESOURCES 
