@@ -11,7 +11,7 @@ Welcome, new scrum masters, on your journey to the world of Agile and the increa
 
 ## What is Project Cost Management?
 
-Well to begin your journey in Project Cost Management, you need to know what is project cost management and the processes. This is your baby steps before you can sprint in project management. Project cost management is the processes involved for planning and defining the project costs within budget[^2]. Now the budget can be defined by the product owner, business owner, or stakeholders when you are meeting with them. 
+Well to begin your journey in Project Cost Management, you need to know what is project cost management and the processes. This is your baby steps before you can sprint in project management. Project cost management is the processes involved for planning and defining the project costs within budget[^1]. Now the budget can be defined by the product owner, business owner, or stakeholders when you are meeting with them. 
 
 ![Project Cost Management Processes](/agile-blog/assets/img/4_Steps_to_Cost_Management_in_Project_Management.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [ProProfProject](https://www.proprofsproject.com/blog/cost-management-in-project-management/)*
@@ -35,13 +35,13 @@ Well to begin your journey in Project Cost Management, you need to know what is 
    
 2. **Time management**: No matter if there are daily meetings, weekly meetings, once in a while meetings, or even monthly meetings, it is important to be aware of how much time you should be spending in each meeting. You don't need daily meetings to be more than fifteen minutes, it is pretty clear that the meeting should be focusing on status updates on sprint tasks and address any issues the development team may face. This can help prevent team members talking over each other or interrupting each other, this scenario is for the daily sprint meetings, but can also be applied to other meetings, as well.
    
-3. **Everyone participates**: The point of giving everyone a certain amount of time for each meeting is to ensure that everyone can get the chance to speak their opinion or concerns they have. This may be about the cost of a software, any change that needs to be made for the budget, and other various factors that could affect the budgeting plan which in turn could hinder the completion of the project.
+3. **Everyone participates**: The point of giving everyone a certain amount of time for each meeting is to ensure that everyone can get the chance to speak their opinion or concerns they have. This may be about the cost of a software, any change that needs to be made for the budget, and other various factors that could affect the budgeting plan which in turn could hinder the completion of the project.[^4]
 
-4. **Use tools that would benefit the meeting**: Anything that can help take notes during the meeting or help you keep track of what was the cost of the sprints can help you understand how well the team is doing and if more time should be given for some tasks to be completed.
+4. **Use tools that would benefit the meeting**: Anything that can help take notes during the meeting or help you keep track of what was the cost of the sprints can help you understand how well the team is doing and if more time should be given for some tasks to be completed.[^4]
 
 ## Impacting Cost Management
 
-Using the above tips during your discussions can help increase the details and specific costs that need to be considered during your project, help reduce overspending on a task and help scrum masters better control the budget plan in case anything unexpected arises. By creating an environment where everyone can have a say and voice their opinion will increase the morale of the team and give them a sense of purpose as they go about their sprints. It is always better to talk with your peers or co-workers to see if something better or more efficient tool is available to use that can reduce the cost if needed. I have had my share of meetings where everyone got a say in their meeting and after the meeting, everyone understood what was expected of them and what they needed to do before the next meeting. 
+Using the above tips during your discussions can help increase the details and specific costs that need to be considered during your project, help reduce overspending on a task and help scrum masters better control the budget plan in case anything unexpected arises. By creating an environment where everyone can have a say and voice their opinion will increase the morale of the team and give them a sense of purpose as they go about their sprints. It is always better to talk with your peers or co-workers to see if something better or more efficient tool is available to use that can reduce the cost if needed. I have had my share of meetings where everyone got a say in their meeting and after the meeting, everyone understood what was expected of them and what they needed to do before the next meeting. [^2]
 
 ## Conclusion
 
