@@ -13,7 +13,7 @@ Welcome, new scrum masters, on your journey to the world of Agile and the increa
 
 Well to begin your journey in Project Cost Management, you need to know what is project cost management and the processes. This is your baby steps before you can sprint in project management. Project cost management is the processes involved for planning and defining the project costs within budget[^1]. Now the budget can be defined by the product owner, business owner, or stakeholders when you are meeting with them. 
 
-![Project Cost Management Processes](/agile-blog/assets/img/4_Steps_to_Cost_Management_Process_in_Project_Management.jpg){: .mx-auto.d-block :}
+![Project Cost Management Processes](/agile-blog/assets/img/Cost_Management_Principles.jpeg){: .mx-auto.d-block :}
 *Graphic courtesy of [ProProfProject](https://www.proprofsproject.com/blog/cost-management-in-project-management/)*
 
 ## Project Cost Management Processes: 
