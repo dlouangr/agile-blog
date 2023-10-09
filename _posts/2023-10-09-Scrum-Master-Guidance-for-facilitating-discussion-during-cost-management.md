@@ -31,7 +31,8 @@ Well to begin your journey in Project Cost Management, you need to know what is 
 ![Facilitating Discussions](/agile-blog/assets/img/cost-management-discussions.webp){: .mx-auto.d-block :}
 *Graphic courtesy of [ProjectLeadershipWaterLoo](https://projectleadershipwaterloo.wordpress.com/2019/12/16/agile-project-cost-management/)*
 
-
+1. **Prioritize the goals of each discussion**: You may have already experienced those meetings where nothing gets done and off-topic discussions tend to take up most of the meeting time, or where not everything gets to be discussed. This is the part where you have to be clear what the goals are for each meeting, having goals will make your meetings more efficient.
+2. **Time management**: No matter if there are daily meetings, weekly meetings, once in a while meetings, or even monthly meetings, it is important to be aware of how much time you should be spending in each meeting. You don't need daily meetings to be more than fifteen minutes, it is pretty clear that the meeting should be focusing on status update on sprint tasks. 
 
 ## RESOURCES 
 
