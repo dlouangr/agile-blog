@@ -49,7 +49,7 @@ In conclusion, project cost management is the processes involved for planning an
 
 ## RESOURCES 
 
-[^1]: "What is Cost Management."[TechTarget](https://www.techtarget.com/whatis/definition/cost-management).
-[^2]: "Agile Project Cost Management."[ProjectLeadershipWaterLoo](https://projectleadershipwaterloo.wordpress.com/2019/12/16/agile-project-cost-management/).
-[^3]: "Information Technology Project Management"[handoutset](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf).
-[^4]: "Agile Meeting Guide"[wrike](https://www.wrike.com/blog/agile-meetings-guide/).
+[^1]: "What is Cost Management."[TechTarget](https://www.techtarget.com/whatis/definition/cost-management)
+[^2]: "Agile Project Cost Management."[ProjectLeadershipWaterLoo](https://projectleadershipwaterloo.wordpress.com/2019/12/16/agile-project-cost-management/)
+[^3]: "Information Technology Project Management"[handoutset](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)
+[^4]: "Agile Meeting Guide"[wrike](https://www.wrike.com/blog/agile-meetings-guide/)
