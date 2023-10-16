@@ -35,7 +35,7 @@ With these concepts in mind, you will bring a lot of benefits to your success as
 
 ## Customer Concepts
 
-Heopfully you understand at this point that this phase in your project management is heavily reliant on your customer because quality is defined not by your team. Of course, we will help you get the quality of information that you need by introducing some customer centered concepts.
+Hopefully you understand at this point that this phase in your project management is heavily reliant on your customer because quality is defined not by your team. Of course, we will help you get the quality of information that you need by introducing some customer centered concepts.
 
 1. **Customer Focus**: This is the part where you sit down with your customer and have a lengthy or straight to the point conversation where you discover what the customer wants the product for, how it is going to be used, the requirements or expectations they have from your team. This is a continuous thing that you will need to do throughout your project.
 
@@ -43,7 +43,7 @@ Heopfully you understand at this point that this phase in your project managemen
 
 ## Cost Efficient Concepts
 
-Quality can be costly, especially when you are trying to exceed your customers expectations. Cost can range widely from the expected budget if not tracked when it comes to the quality of the product but we can decrease that range to a more acceptable terms with the following concepts.
+Quality can be costly, especially when you are trying to exceed your customers expectations. Cost can range widely from the expected budget if not tracked when it comes to the quality of the product but we can decrease that range to more acceptable terms with the following concepts.
 
 1. **Prevention over Inspection**: This might be a new concept that you might not be used too, but for this side of project management, by creating procedures will help you prevent the issue from appearing versus inspecting for issues after everything is done. 
 
