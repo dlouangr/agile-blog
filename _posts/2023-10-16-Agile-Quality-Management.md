@@ -29,7 +29,9 @@ These are the main concepts that you have to concern yourself with project quali
 
 5. **Quality Management**: There are tools and techniques that could help you manage how the project will be run by people with their respective roles, responsibilities, and it is similar to quality control except you are overseeing the whole entire project.
 
-6. **Quality Metrics**: Metric is a standard measurement 
+6. **Quality Metrics**: Metric is a standard measurement that you use for your project from a quantifiable standpoint or something that you can measure such as time, money, number of attempts, lines of code, etc..
+
+
 
 ## Resources 
 
