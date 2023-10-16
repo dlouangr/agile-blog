@@ -6,7 +6,7 @@ cover-img: assets/img/what-is-issue-management.png
 tags: [issues,issue tracking,management]
 ---
 
-Ask any experienced project manager and they’ll tell you the importance of properly managing quality issues and non-conformities. How you address these problems as a new project manager will directly impact your ability to minimize delays, additional costs, and other negative impacts that can derail your projects. While dealing with quality issues can certainly be frustrating, viewing them as learning opportunities and developing robust processes to identify and correct non-conformities quickly will serve you well throughout your career.
+Ask any experienced project manager and they’ll tell you the importance of properly managing quality issues and non-conformities. How you address these problems as a new project manager will directly impact your ability to minimize delays, additional costs, and other negative impacts that can derail your projects. While dealing with quality issues can be frustrating, viewing them as learning opportunities to develop ways to identify and correct non-conformities quickly will serve you well throughout your career!
 
 In this article, I will share the essential strategies I've learned for implementing quality management procedures, actively monitoring deliverables, and collaborating with teams to rapidly resolve problems. Mastering these skills early on will help you deliver successful projects on time and on budget, keeping your stakeholders satisfied. I hope to impart some of the knowledge I've gained to help you develop expertise in this critical area!
 
@@ -22,14 +22,22 @@ Both minor issues and major non-conformities can delay projects and drive up cos
 ## Implementing a Quality Management Process
 
 Implementing an effective quality management process is one of the most important things you can do to ensure your projects succeed. As a baseline for how to achieve this, follow this general guideline:
+
 First, make sure you clearly define requirements and quality standards upfront when you kick off a new project. This sets clear expectations from the start on what "good" looks like. Then, implement regular quality audits, reviews, and testing throughout the project lifecycle to measure progress against those standards. This allows you to catch any problems early when they are easiest to correct.
+
 When issues do arise, document them formally, including a description, priority level, owner, and target resolution date. Getting input from affected stakeholders is key to properly prioritizing and addressing problems. Methodologies like Six Sigma's DMAIC process provide a data-driven framework to really understand root causes and develop robust solutions.[^2]
+
 The goal should always be continuous improvement. By establishing disciplined quality management procedures upfront that let you quickly identify, report and track issues, you streamline the resolution process. This consistent approach is essential for spotting and correcting problems before they grow and negatively impact budgets, timelines, and customer satisfaction.
+
 Quality management does take work, but it pays off in smoother projects and happier customers!
 
 ## Roles and Responsibilities
 
-As project managers, we have ultimate responsibility for quality management on our projects. However, quality is a team effort.[^3] Leverage your developers, who are the first people to detect bugs and defects early through their own debugging and testing. Utilize your testers, who will thoroughly test each build to catch issues before release. Collaborate with your business analyst to review requirements and prevent scope creep down the line. While you may be responsible for quality outcomes, tap into your team's skills and experience - they are detecting and flagging problems daily. Listen to their ideas for resolving issues efficiently too. By sharing quality management responsibilities, you'll address problems proactively and minimize impact on schedule and budget.
+As project managers, we have ultimate responsibility for quality management on our projects. However, quality is a team effort.[^3]
+
+Leverage your developers, who are the first people to detect bugs and defects early through their own debugging and testing. Utilize your testers, who will thoroughly test each build to catch issues before release. Collaborate with your business analyst to review requirements and prevent scope creep down the line. While you may be responsible for quality outcomes, tap into your team's skills and experience - they are detecting and flagging problems daily. Listen to their ideas for resolving issues efficiently too.
+
+By sharing quality management responsibilities, you'll address problems proactively and minimize impact on schedule and budget.
 
 ## Communicating about Issues
 
