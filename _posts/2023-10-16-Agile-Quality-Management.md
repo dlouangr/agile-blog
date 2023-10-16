@@ -25,11 +25,11 @@ To get a better understanding of what project quality management is, we will go 
 
 These are the main concepts that you have to concern yourself with project quality management and it is important to understand so you can produce a project with high quality or consistent high quality for your stakeholders. The following concepts are some specific concepts that are helpful to above listed concepts in planning, assuring, and controlling your project quality. 
 
-5. **Quality Standards**: When you look at an apple iphone or ipad, you already have an idea of what it is going to look like and how it is going to be presented at a apple store. The quality standards of a project is dependant on such standards with documentations, requirements, and other guidelines that meets either the businesses or governmental basic standards of a product.
+4. **Quality Standards**: When you look at an apple iphone or ipad, you already have an idea of what it is going to look like and how it is going to be presented at a apple store. The quality standards of a project is dependant on such standards with documentations, requirements, and other guidelines that meets either the businesses or governmental basic standards of a product.
 
-6. **Quality Management**: There are tools and techniques that could help you manage how the project will be run by people with their respective roles, responsibilities, and it is similar to quality control except you are overseeing the whole entire project.
+5. **Quality Management**: There are tools and techniques that could help you manage how the project will be run by people with their respective roles, responsibilities, and it is similar to quality control except you are overseeing the whole entire project.
 
-7. 
+6. **Quality Metrics**: Metric is a standard measurement 
 
 ## Resources 
 
