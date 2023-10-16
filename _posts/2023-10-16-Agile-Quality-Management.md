@@ -35,10 +35,6 @@ These are the main concepts that you have to concern yourself with project quali
 
 ## Resources 
 
-[^1]: "Project Quality Management"[forecast]([^1]: "Project Management Statistics"[TrueList](https://truelist.co/blog/project-management-statistics/)
+[^1]: "Project Quality Management"[forecast](https://www.forecast.app/blog/what-is-project-quality-management#what-are-the-benefits-of-project-quality-managemen)
 [^2]: "chatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382)
 [^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf))
-[^2]: "chatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382)
-[^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)
-
-
