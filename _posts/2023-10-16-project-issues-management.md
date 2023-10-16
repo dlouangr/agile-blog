@@ -6,13 +6,15 @@ cover-img: assets/img/what-is-issue-management.png
 tags: [issues,issue tracking,management]
 ---
 
-Ask any experienced project manager and they’ll tell you the importance of properly managing quality issues and non-conformities. How you address these problems as a new project manager will directly impact your ability to minimize delays, additional costs, and other negative impacts that can derail your projects. While dealing with quality issues can be frustrating, viewing them as learning opportunities to develop ways to identify and correct non-conformities quickly will serve you well throughout your career!
+Ask any experienced project manager and they’ll tell you the importance of properly managing quality issues and non-conformities. How you address these problems as a new project manager will directly impact your ability to minimize delays, additional costs, and other negative impacts that can derail your projects. While dealing with quality issues can be frustrating, viewing them as learning opportunities to develop ways to identify and correct non-conformities will serve you well throughout your career!
 
 In this article, I will share the essential strategies I've learned for implementing quality management procedures, actively monitoring deliverables, and collaborating with teams to rapidly resolve problems. Mastering these skills early on will help you deliver successful projects on time and on budget, keeping your stakeholders satisfied. I hope to impart some of the knowledge I've gained to help you develop expertise in this critical area!
 
 ## Defining Quality Issues and Non-Conformities
 
-Quality issues and non-conformities are problems that occur when project deliverables fail to meet requirements or quality standards. Minor quality issues are small defects that don't significantly impact the end product, such as typos or formatting inconsistencies. Major non-conformities are defects that materially affect the product's functionality, safety, or compliance with regulations.[^1] Examples of major issues include software bugs that cause crashes, construction materials that fail safety tests, or products that don't meet legal standards.
+Quality issues and non-conformities are problems that occur when project deliverables fail to meet requirements or quality standards. Minor quality issues are small defects that don't significantly impact the end product, such as typos or formatting inconsistencies.
+
+Major non-conformities are defects that materially affect the product's functionality, safety, or compliance with regulations.[^1] Examples of major issues include software bugs that cause crashes, construction materials that fail safety tests, or products that don't meet legal standards.
 
 Both minor issues and major non-conformities can delay projects and drive up costs if extra work is needed to correct them. Dissatisfied customers may also demand fixes, refunds, or compensation if quality problems aren't resolved efficiently. Careful quality management is essential to avoid these pitfalls.
 
