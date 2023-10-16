@@ -10,4 +10,7 @@ Welcome new project managers to another stage in agile project management. The n
 
 Project quality management is vague or uncertain compared to the other project management processes because there really is no defined measure other than satisfying the purpose of the project. And the only way you can understand quality is from your customer. 
 
+//Needs to put in new image
+![Gantt Chart Template](/agile-blog/assets/img/Gantt-Chart.jpg){: .mx-auto.d-block :}
+*Graphic courtesy of [ProjectManager](https://www.projectmanager.com/blog/project-scheduling-templates)*
 
