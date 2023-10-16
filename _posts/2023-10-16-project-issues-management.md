@@ -57,11 +57,9 @@ In closing, implementing strong quality management will set your projects up for
 Quality takes work, but it's one of the most worthwhile investments you can make. I'm confident you have what it takes to make it happen! Here's to your quality journey!
 
 ## References:
-[^1]"Non-conformity: what it is and how to deal with it using technology"(https://www.sydle.com/blog/non-conformity-64e4fa8e7317ee3484972195)
-
-[^2]"The Define Measure Analyze Improve Control (DMAIC) Process"(https://asq.org/quality-resources/dmaic)
-
-[^3]"Benefits of teamwork and collaboration for software development teams"(https://www.shakebugs.com/blog/collaboration-in-software-development/)
+[^1]: "Non-conformity: what it is and how to deal with it using technology"(https://www.sydle.com/blog/non-conformity-64e4fa8e7317ee3484972195)
+[^2]: "The Define Measure Analyze Improve Control (DMAIC) Process"(https://asq.org/quality-resources/dmaic)
+[^3]: "Benefits of teamwork and collaboration for software development teams"(https://www.shakebugs.com/blog/collaboration-in-software-development/)
 
 ~~~
 Banner image courtesy of Arena Solutions
