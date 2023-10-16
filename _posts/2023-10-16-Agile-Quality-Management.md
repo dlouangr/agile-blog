@@ -10,6 +10,6 @@ Welcome new project managers to another stage in agile project management. The n
 
 Project quality management is vague or uncertain compared to the other project management processes because there really is no defined measure other than satisfying the purpose of the project. Then the question becomes what defines quality in a project? As a project manager the quality in a project should be based on the customer expectations and requirements and not solely based on the written requirements.  The leading cause for projects failing regarding quality is the project team focuses on the written requirements and not really meet other requirements that stakeholders need or require.
 
-![Gantt Chart Template](/agile-blog/assets/img/Gantt-Chart.jpg){: .mx-auto.d-block :}
-*Graphic courtesy of [ProjectManager](https://www.projectmanager.com/blog/project-scheduling-templates)*
+![CheckList](/agile-blog/assets/img/Check_list.jpeg){: .mx-auto.d-block :}
+*Graphic courtesy of [Adobe](https://stock.adobe.com/images/check-list-checklist-flat-web-icon-isolated-on-white-background-mark-symbol-document-report-test-vector-illustration/387715437)*
 
