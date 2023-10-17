@@ -76,13 +76,13 @@ For new project managers, the journey of creating a risk management plan might s
 
 Remember, a well-crafted risk management plan is not just a document; it's a dynamic tool that evolves with the project. Embrace the process, learn from each iteration, and empower your team to proactively manage risks. As you navigate the complexities of project management, let the creation of a comprehensive risk management plan be your compass, guiding you toward delivering a high-quality end product that exceeds expectations.
 
-## Conclusion
+~~~
+Banner image courtesy of ITPro Today
+~~~
+
+## Resources
 
 [^1]: “How to Create the Ultimate Risk Response Plan”(https://www.wrike.com/blog/how-to-create-risk-response-strategy/)
 [^2]: “Key Performance Indicator (KPI): Definition, Examples & Types”(https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator)
 [^3] “Risk analysis and management”(https://www.pmi.org/learning/library/risk-analysis-project-management-7070)
 [^4]: “Risk Identification”(https://www.pmi.org/learning/library/risk-identification-life-cycle-tools-7784)
-
-~~~
-Banner image courtesy of ITPro Today
-~~~
