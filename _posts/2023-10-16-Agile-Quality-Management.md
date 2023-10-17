@@ -45,7 +45,13 @@ Hopefully you understand at this point that this phase in your project managemen
 
 Quality can be costly, especially when you are trying to exceed your customers expectations. Cost can range widely from the expected budget if not tracked when it comes to the quality of the product but we can decrease that range to more acceptable terms with the following concepts.
 
-1. **Prevention over Inspection**: This might be a new concept that you might not be used too, but for this side of project management, by creating procedures will help you prevent the issue from appearing versus inspecting for issues after everything is done. 
+1. **Prevention over Inspection**: This might be a new concept that you might not be used too, but for this side of project management, by creating procedures will help you prevent the issue from appearing versus inspecting for issues after everything is done.
+
+2. **Cost of Quality**: This is the cost for delivering the project and the cost when you are unable to meet the quality standards or expectations of the customer for the project.
+
+## Conclusion
+
+In conclusion, the project quality management is the processes that ensures your project meets customers needs and expectations. It is a plus when it exceeds customers expectations and is just as great when it meets your stakeholders expectations. The concepts that we discussed will help you determine how you can continue producing high quality products when you always go back to your customer and ensure that you meet their expectations. This will decrease the failure of a project and ensure you are on the right track in satisfying your customer. 
 
 ## Resources 
 
