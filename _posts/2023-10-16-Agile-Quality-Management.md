@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important concepts for Project Quality Management
-cover-img: assets/img/Project_Quality_Manamgent.avif
+cover-img: assets/img/quality-project-management.jpg
 tags: [quality,agile]
 ---
 ## Project Quality Management
