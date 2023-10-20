@@ -84,5 +84,5 @@ Banner image courtesy of ITPro Today
 
 [^1]: “How to Create the Ultimate Risk Response Plan”(https://www.wrike.com/blog/how-to-create-risk-response-strategy/)
 [^2]: “Key Performance Indicator (KPI): Definition, Examples & Types”(https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator)
-[^3] “Risk analysis and management”(https://www.pmi.org/learning/library/risk-analysis-project-management-7070)
+[^3]: “Risk analysis and management”(https://www.pmi.org/learning/library/risk-analysis-project-management-7070)
 [^4]: “Risk Identification”(https://www.pmi.org/learning/library/risk-identification-life-cycle-tools-7784)
