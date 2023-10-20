@@ -35,7 +35,7 @@ With these concepts in mind, you will bring a lot of benefits to your success as
 
 ## Customer Concepts
 
-![Customer Focus(/agile-blog/assets/img/customer_focus_digital_age.webp){: .mx-auto.d-block :}
+![Customer Focus](/agile-blog/assets/img/customer_focus_digital_age.webp){: .mx-auto.d-block :}
 *Graphic courtesy of [the Brooks Group](https://brooksgroup.com/sales-training-blog/3-ways-maintain-customer-focus-digital-age/)*
 
 Hopefully you understand at this point that this phase in your project management is heavily reliant on your customer because quality is defined not by your team. Of course, we will help you get the quality of information that you need by introducing some customer centered concepts.
