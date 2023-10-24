@@ -2,7 +2,7 @@
 layout: post
 title: Mastering Project Creation
 subtitle: A Guide for Project Managers
-cover-img: assets/img/Project-Creation.png
+cover-img: assets/img/Project_Creation.png
 tags: [project development, new project manager]
 ---
 
@@ -101,7 +101,7 @@ Gaining proficiency in project creation as a project manager will enable you to 
 
 ## Resources
 
-[^1]: “Project Plan Guide: 6 Steps to Foolproof Project Planning | Wrike” (https://www.wrike.com/blog/foolproof-project-plan/)
+[^1]: “Project Plan Guide: 6 Steps to Foolproof Project Planning” (https://www.wrike.com/blog/foolproof-project-plan/)
 [^2]: ”What Is Project Resource Management? And Why Bother? - Ganttic” (https://www.ganttic.com/blog/what-is-resource-management)
 [^3]: “What Is SMART in Project Management? (wrike.com)” (https://www.wrike.com/project-management-guide/faq/what-is-smart-in-project-management/)
 
