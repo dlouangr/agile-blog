@@ -12,7 +12,13 @@ Welcome new agile project managers to another chapter in your agile journey. We 
 *Graphic courtesy of [123rf](https://www.123rf.com/photo_125372376_house-building-illustration-business-people-workers-make-construction-home-with-tools-and-materials.html)*
 
 ## Definition
-Project resource management involves the process of using human and phyiscal resources efficiently for a project.
+1. **Project resource management**: involves the process of using human and phyiscal resources efficiently for a project.
+
+2. **Resource Conflict**: When two or more resources are required for different projects at the same time when it is limited in quanitity or availability.
+
+## Resource Conflicts
+
+Resource conflicts can come from a variety of directions in your project and are equally overlooked until problems or issues arise, which is usually resulting from poor management[^1]. The most common resource conflict in todays world right now are human resources. Right now, you are seeing an over abundance of people in schools and classrooms who are understaffed or not being put in their proper role as a teacher or staff for the students to receive the proper education they need. Education right now is an important factor in today's society and if it is not properly addressed the students will not be ready by the time they are applying for jobs in local not to mention national or even international level careers. 
 
 
 
