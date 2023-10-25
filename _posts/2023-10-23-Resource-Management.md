@@ -27,7 +27,7 @@ Education right now is an important factor in today's society and if it is not p
 
 ## What tools can we use?
 
-While there are not that much tools available digitally to ensure perfect human resource management, there are ways as a project manager that you can do to help resolve conflict. 
+While there are no such thing as a tool or method available to ensure perfect human resource management, there are methods that can aid you as a project manager to help resolve conflict. 
 
 1. **Confrontation**: As a project manager, you'll often encounter conflicts that need direct addressing. In the confrontation mode, you approach the conflict head-on, using problem-solving techniques to help all parties involved work through their disagreements. This mode is highly effective when both the task at hand and the relationship among team members are of great importance to the success of the project. It ensures that issues are resolved while maintaining a positive team dynamic.
    
