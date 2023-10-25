@@ -48,3 +48,5 @@ These conflict resolution modes offer project managers a range of strategies to 
 ## References
 
 [^1]:”Resource Conflicts in Projects - Can Agile Planning Reduce Them?” [The Project Group](https://www.theprojectgroup.com/blog/en/project-resource-conflicts-agile/)
+[^2]: "chatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382)
+[^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf))
