@@ -15,3 +15,7 @@ Welcome new agile project managers to another chapter in your agile journey. We 
 Project resource management involves the process of using human and phyiscal resources efficiently for a project.
 
 
+
+## References
+
+[^1]:”Resource Conflicts in Projects - Can Agile Planning Reduce Them?” [The Project Group](https://www.theprojectgroup.com/blog/en/project-resource-conflicts-agile/)
