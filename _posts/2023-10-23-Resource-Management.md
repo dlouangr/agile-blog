@@ -20,7 +20,7 @@ Welcome new agile project managers to another chapter in your agile journey. We 
 
 Resource conflicts can come from a variety of directions in your project and are equally overlooked until problems or issues arise, which is usually resulting from poor management[^1]. The most common resource conflict in todays world right now are human resources. Right now, you are seeing an over abundance of people in schools and classrooms who are understaffed or not being put in their proper role as a teacher or staff for the students to receive the proper education they need. 
 
-![Human Resources](/agile-blog/assets/img/humanresourcespicture.jpg){: .mx-auto.d-block :}
+![Human Resources](/agile-blog/assets/img/human_resources_picture.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [Johnston Public School](https://www.johnstonschools.org/apps/pages/index.jsp?uREC_ID=2742382&type=d&pREC_ID=2296569)*
 
 Education right now is an important factor in today's society and if it is not properly addressed the students will not be ready by the time they are applying for jobs in local not to mention national or even international level careers. 
