@@ -41,7 +41,7 @@ While there are not that much tools available digitally to ensure perfect human 
 
 6. **Collaborating**: Collaboration is an approach where decision-makers gather various viewpoints and insights to reach a consensus. Even if team members don't entirely agree on a decision, they commit to follow it in the best interests of the organization. The collaborating mode promotes inclusivity and cooperation, making it a valuable approach for complex projects and when maintaining a positive team dynamic is essential.
 
-These are some of the tools you can use as a project manager to resolve conflicts between human resources on any levels of authority between you and others if you choose too.
+These conflict resolution modes offer project managers a range of strategies to address conflicts effectively based on the specific circumstances and priorities of the project. Choosing the most suitable mode for a given situation is a critical skill in successful project management.
 
 ## References
 
