@@ -29,13 +29,17 @@ Education right now is an important factor in today's society and if it is not p
 
 While there are not that much tools available digitally to ensure perfect human resource management, there are ways as a project manager that you can do to help resolve conflict. 
 
-1. **Confrontation**: When using the confrontation mode, project managers face a conflict directly using a problem-solving approach that allows affected parties to work through their disagreements. This approach is also called the problem-solving mode or win/win using Covey’s terminology. When the task and relationship are both of high importance, this mode is usually the
-most effective.
+1. **Confrontation**: When using the confrontation mode, project managers face a conflict directly using a problem-solving approach that allows affected parties to work through their disagreements. This approach is also called the problem-solving mode or win/win using Covey’s terminology. When the task and relationship are both of high importance, this mode is usually the most effective.
+   
 2. **Compromise**: With the compromise mode, project managers use a give-and-take approach to resolving conflicts. They bargain and search for solutions that bring some degree of satisfaction to all the parties in a dispute. Some people refer to it as reconciliation. This mode works best when both the task and the relationship are of medium importance.
+   
 3. **Smoothing**: When using the smoothing mode, the project manager deemphasizes or avoids areas of differences and emphasizes areas of agreement. This approach is also called accommodating, and it is best used when the relationship is of high importance and the task is of low importance.
+   
 4. **Forcing**: The forcing mode can be viewed as the win/lose approach to conflict resolution. Project managers exert their viewpoint at the potential expense of another viewpoint. Some people refer to it as directing. If the task is of high importance and the relationship is of low importance, this mode can be very effective.
+   
 5. **Withdrawal**: When using the withdrawal mode, project managers retreat or withdraw from an actual or potential disagreement. This
 approach is also called avoiding, and is normally the least desirable conflict-handling mode, unless the task and the relationship are both of low importance.
+
 6. **Collaborating**: Using the collaborating mode, decision makers incorporate different viewpoints and insights to develop consensus and commitment. Even though managers might not agree on a decision, they commit to following it in the best interests of the organization.
 
 ## References
