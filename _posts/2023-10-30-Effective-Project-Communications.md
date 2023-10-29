@@ -26,8 +26,15 @@ The workplace is very different to navigate and especially in a new setting that
 
 4. **Setting the Stage for Bad News**: No one wants to be the bearer of bad news, however, it is important that everyone knows what's going on and are aware of anything that could affect the final outcome of the project so help can be provided. By communicating in a timely fashion with great efficiency, most problems can be resolved as easily as they appear or give other people time needed to pick up the pace. A "stand-up" meeting would require everyone to focus on the information that is being discussed and provide everyone a general idea on how well they are presenting their data.
 
-5. **Determing Communication Channels**: When you know how many people are in your team, you can decide how many communication channels you need which would help you get an idea on communication works. 
+5. **Determing Communication Channels**: When you know how many people are in your team, you can decide how many communication channels you need which would help you get an idea on how communication works. From the image below you can see that the more teams and people you have, the more complicated communication channels become, which is not good for your company. By keeping your team small, you are creating an environment for effective communications and allows for closer bonding between members that can increase productivity for your team.
 
+![communication channels](/agile-blog/assets/img/Organization-scheme-and-communication-channels-in-EGPR-course.png){: .mx-auto.d-block :}
+*Graphic courtesy of [ResearchGate](https://www.researchgate.net/figure/Organization-scheme-and-communication-channels-in-EGPR-course_fig2_322054762)*
+
+These are some things you need to consider when you are trying to create an effective communication environment between your fellow team members. As a project member the benefits to this will outweigh the problems that could arise if they are not properly addressed. Human interpersonal relationships are difficult to handle but if you can manage this you will be able to increase the success for your projects and create an environment where everyone is able to say everything that needs to be said in your meetings. This is not an easy task or skill to learn when you can't understand this from a book or words on a webpage, but by experience. 
+
+## Conclusion
+Overall, effective communication is easier said than done but the benefits from this by planning effective communications in the beginning will allow your team to become more productive and allow everyone to grow as a team. Hopefully, you learned a lot from this blog post as I did when making this one. Communication is key to the success of a project, but everyone is a person and that may require you to put more effort to grow connected with others than with a fellow co-worker. 
 
 ## References
 
