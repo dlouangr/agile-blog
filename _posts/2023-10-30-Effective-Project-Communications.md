@@ -11,7 +11,7 @@ Welcome new project managers to another part of your Agile story. Today we will 
 ![effective communication](/agile-blog/assets/img/Effective_Communication.webp){: .mx-auto.d-block :}
 *Graphic courtesy of [PPIA](https://ppinaction.com/blog/f/the-three-principles-of-effective-communication)*
 
-The workplace is very different to navigate and especially in a new setting that you are unfamilier. Thankfully you are not alone in this manner and we will help to clear away most misunderstandings to help you grow to become a successful project manager. Of course there are several factors you have to consider in a project. We are break down some of the most common issues that will arise during this stage and the importance of it later on. 
+The workplace is very different to navigate and especially in a new setting that you are unfamiliar with. Thankfully you are not alone in this manner and we will help to clear away most misunderstandings to help you grow to become a successful project manager. Of course there are several factors you have to consider in a project. We are breaking down some of the most common issues that will arise during this stage and the importance of it later on.
 
 ## Planning Effective Communication 
 
@@ -20,9 +20,14 @@ The workplace is very different to navigate and especially in a new setting that
 ![types of communication](/agile-blog/assets/img/Types_of_Communication.jpeg){: .mx-auto.d-block :}
 *Graphic courtesy of [Lumen](https://courses.lumenlearning.com/wm-organizationalbehavior/chapter/types-of-communication/)*
 
-2. **Formal and Informal methods of Communicating**: Knowing how to develop relationships between team members will be crucial for a project success and how to navigate between informal and formal communication will help you get there. While formal communication will be good for project documentation, in the settign where you are trying to build a team that works well together, formal methods of communication will help build bridges and get everyone on the same page faster compared to reading detailed reports or emails that can be confusing for those not in the same field.
+2. **Formal and Informal methods of Communicating**: Knowing how to develop relationships between team members will be crucial for project success and how to navigate between informal and formal communication will help you get there. While formal communication will be good for project documentation, in the setting where you are trying to build a team that works well together, formal methods of communication will help build bridges and get everyone on the same page faster compared to reading detailed reports or emails that can be confusing for those not in the same field.
 
-3. **Distributing Information in a Timely and Efficient Manner**: 
+3. **Distributing Information in a Timely and Efficient Manner**: In regards to project management, it is important for everyone to be on the same page, as the project manager you cannot hide information about whats going on for the project or how other team members are dragging the team down. Not only is this not efficient, you are creating a workplace where no one is happy or feel important in their work. By giving updates to the projects to the stakeholders and their expectations back to your team, you are developing effective communication between yourself and those around you. Do not let one person on your team become abandoned or feel alone in their work, a team become more than just a group of people toward a single goal.
+
+4. **Setting the Stage for Bad News**: No one wants to be the bearer of bad news, however, it is important that everyone knows what's going on and are aware of anything that could affect the final outcome of the project so help can be provided. By communicating in a timely fashion with great efficiency, most problems can be resolved as easily as they appear or give other people time needed to pick up the pace. A "stand-up" meeting would require everyone to focus on the information that is being discussed and provide everyone a general idea on how well they are presenting their data.
+
+5. **Determing Communication Channels**: When you know how many people are in your team, you can decide how many communication channels you need which would help you get an idea on communication works. 
+
 
 ## References
 
