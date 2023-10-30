@@ -34,7 +34,7 @@ Now that we've set the stage let's dive into the common communication challenges
 
 ### Miscommunication
 
-![Miscommunication](/agile-blog/assets/img/Communication.jpeg){: .mx-auto.d-block :}
+![Miscommunication](/agile-blog/assets/img/Miscommunication.jpeg){: .mx-auto.d-block :}
 *Graphic courtesy of [Appspace](https://www.appspace.com/resources/blog/the-hidden-effects-of-employee-miscommunication-on-workplace-productivity)*
 
 - **Symptoms:** Messages are misunderstood, leading to mistakes or delays.
