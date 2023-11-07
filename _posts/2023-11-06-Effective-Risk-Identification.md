@@ -25,4 +25,9 @@ There are a variety of identifying risk techniques that have been used over the 
 
 2. **SWOT Analysis**:  Which stands for strength, weakness, opportunities and threat. Being able to identify the consequences of a project in the near or far future would help you understand the strengths and weaknesses of the project as well. This is very effective when you are trying to understand the impacts the project would have not only on you as an individual, but its impact on your company or business that you are part of.
 
+![SWOT Analysis](/agile-blog/assets/img/SWOT_analysis.png){: .mx-auto.d-block :}
+*Graphic courtesy of [Medium](https://medium.com/thrive-global/how-to-complete-a-personal-swot-analysis-2f8769aebd5e)*
+
+3. **Root Cause Analysis**: Identifying the main cause for the risk to occur is crucial to mitigate the damage that could come if the risk is left alone or is a continuous problem in your project. Not only is it a waste of resources, it could also increase the cost of your project in the long-term if it is not addressed. I would give a word of caution as you are looking for the root cause of a risk, because you should not be spending all of your resources on finding the cause, instead you should delegate the task to however much you consider is needed. Depending on the risk it should be left to your more experienced problem solvers or if it was a personal error, then have the employee who is responsible for the risk take care of it.
+
 
