@@ -39,4 +39,4 @@ There are a variety of identifying risk techniques that have been used over the 
 
 There are a couple of more risk identifying techniques that are out there that you could learn more about and get a better idea on how they can help you decide which technique would be best for your situation. I will provide some in the bullets below.
 
-- This website is another blog that gives you a bried overview of some of the techniques that we discussed and others that were not dicussed in this blog post.
+- This website is another blog that gives you a brief overview of some of the techniques that we discussed and others that were not discussed in this blog post. [7 methods and tools for project risk management](https://blog.softexpert.com/en/risk-identification/)
