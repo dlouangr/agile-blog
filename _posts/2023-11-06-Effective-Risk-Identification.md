@@ -30,4 +30,11 @@ There are a variety of identifying risk techniques that have been used over the 
 
 3. **Root Cause Analysis**: Identifying the main cause for the risk to occur is crucial to mitigate the damage that could come if the risk is left alone or is a continuous problem in your project. Not only is it a waste of resources, it could also increase the cost of your project in the long-term if it is not addressed. I would give a word of caution as you are looking for the root cause of a risk, because you should not be spending all of your resources on finding the cause, instead you should delegate the task to however much you consider is needed. Depending on the risk it should be left to your more experienced problem solvers or if it was a personal error, then have the employee who is responsible for the risk take care of it.
 
+![Root Cause Analysis](/agile-blog/assets/img/root-cause-analysis.png){: .mx-auto.d-block :}
+*Graphic courtesy of [Up Skill Nation](https://upskillnation.com/root-cause-analysis/)*
+
+4. **Delphi Technique**: The most effective risk identifying technique in my opinion. This is where you have a panel of experts write their opinions anonymously in the form of a questionnaire and go through several rounds after summarizing their results after each round until there is a general consensus. This is really effective in understanding what your team identifies as a risk and everyone is able to give their opinion freely. While also cutting down on risks that may not be considered as a major risk that needs to be addressed immediately.
+
+5. **Interviewing**: This is a one-on-one risk identification method that focuses on an experts or project team member's opinions that focuses on their experience whether it was recent or further back in their career that would help you as a manager to collect a lot of information and make valid decisions. You will get more valuable information to consider if you prepare your questions before the interview and already have in mind how you are gonna lead the interview.
+
 
