@@ -37,6 +37,18 @@ There are a variety of identifying risk techniques that have been used over the 
 
 5. **Interviewing**: This is a one-on-one risk identification method that focuses on an experts or project team member's opinions that focuses on their experience whether it was recent or further back in their career that would help you as a manager to collect a lot of information and make valid decisions. You will get more valuable information to consider if you prepare your questions before the interview and already have in mind how you are gonna lead the interview.
 
+## Summary
+
+These are the effective techniques that you can use to help identify risks on a project and help you get a broader perspective of the impacts these risks can have not only on an individual but even company level impact. I would always take my time in understanding the project first and then consider risks based on time, resources, and anything that you cannot control. This is my best advice that I could give when you are trying to identify risks as you want to prepare for the worst case scenarios as much as possible.
+
 There are a couple of more risk identifying techniques that are out there that you could learn more about and get a better idea on how they can help you decide which technique would be best for your situation. I will provide some in the bullets below.
 
+## Extra Resources
+
 - This website is another blog that gives you a brief overview of some of the techniques that we discussed and others that were not discussed in this blog post. [7 methods and tools for project risk management](https://blog.softexpert.com/en/risk-identification/)
+
+- If you are really into research and want to learn more about risk management from a scholarly view then I recommend this website. [From the Project Management Institute](https://www.pmi.org/learning/library/risk-identification-life-cycle-tools-7784)
+
+## Resources
+
+
