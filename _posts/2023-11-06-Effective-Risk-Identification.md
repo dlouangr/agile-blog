@@ -37,4 +37,6 @@ There are a variety of identifying risk techniques that have been used over the 
 
 5. **Interviewing**: This is a one-on-one risk identification method that focuses on an experts or project team member's opinions that focuses on their experience whether it was recent or further back in their career that would help you as a manager to collect a lot of information and make valid decisions. You will get more valuable information to consider if you prepare your questions before the interview and already have in mind how you are gonna lead the interview.
 
+There are a couple of more risk identifying techniques that are out there that you could learn more about and get a better idea on how they can help you decide which technique would be best for your situation. I will provide some in the bullets below.
 
+- This website is another blog that gives you a bried overview of some of the techniques that we discussed and others that were not dicussed in this blog post.
