@@ -26,27 +26,27 @@ Now that we have a basic understanding of risk management, let's explore expert 
 1. **Proactive Risk Management**
    - “Being proactive rather than reactive is always the best approach to risk reduction,” emphasizes AuditBoard[^1]. They stress the importance of identifying and addressing risks early in the project lifecycle. Waiting until a risk becomes problematic can lead to costly delays and complications.
 
-   Actionable Step: Create a Risk Register at the project's outset, and regularly review and update it throughout the project. This will help you stay ahead of potential issues.
+**Actionable Step**: Create a Risk Register at the project's outset, and regularly review and update it throughout the project. This will help you stay ahead of potential issues.
 
 2. **Stakeholder Involvement**
    - Cascade stresses the importance of involving stakeholders in risk management[^2]. Their article highlights that stakeholders often have valuable insights and can help identify risks that you might overlook. Involving them in risk assessment and mitigation plans fosters a sense of shared responsibility and improves overall project success.
 
-   Actionable Step: Conduct regular meetings or workshops with stakeholders to discuss potential risks and gather their input. Their perspectives can be invaluable in refining your risk management strategies.
+**Actionable Step**: Conduct regular meetings or workshops with stakeholders to discuss potential risks and gather their input. Their perspectives can be invaluable in refining your risk management strategies.
 
 3. **Data-Driven Risk Analysis**
    - Conducting thorough qualitative risk analysis during the project's lifetime is something advocated by AuditBoard[^1]. It is recommended to use historical project data and analytics to assess the likelihood and impact of potential risks. This helps project managers make informed decisions and allocate resources more effectively.
 
-   Actionable Step: Invest in project management software that can help you analyze historical project data and make data-driven decisions. These tools can provide valuable insights into risk assessment.
+**Actionable Step**: Invest in project management software that can help you analyze historical project data and make data-driven decisions. These tools can provide valuable insights into risk assessment.
 
 4. **Continuous Monitoring**
    - Lucidchart recommends the importance of continuous risk monitoring[^3]. Risks can evolve over time, so it's crucial to keep a close eye on them throughout the project. Regularly updating and revising your risk management strategy can help you adapt to changing circumstances.
 
-   Actionable Step: Set up a system for continuous risk monitoring. This can involve regular project reviews and status updates, allowing you to adjust your risk management plan as needed.
+**Actionable Step**: Set up a system for continuous risk monitoring. This can involve regular project reviews and status updates, allowing you to adjust your risk management plan as needed.
 
 5. **Communication is Key**
    - Effective communication is a common theme among all experienced project managers. Cascade emphasizes that good communication can help prevent risks from escalating into major issues[^2]. Clear and open communication with the project team, stakeholders, and other relevant parties is essential.
 
-   Actionable Step: Establish a robust communication plan that ensures all team members are aware of the risks, their potential impact, and the strategies in place to address them. Regularly update stakeholders on risk management progress.
+**Actionable Step**: Establish a robust communication plan that ensures all team members are aware of the risks, their potential impact, and the strategies in place to address them. Regularly update stakeholders on risk management progress.
 
 ## Implementing Successful Risk Management Strategies
 
