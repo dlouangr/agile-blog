@@ -17,10 +17,12 @@ There are a variety of identifying risk techniques that have been used over the 
 
 ## Effective Risk Techniques
 
-1. **Brainstorming**: You are bringing your team members together to discuss with each other what are ways the team can solve a problem and it should be conducted without any judgment as much as possible. This is good in coming up with risks on the spot all at once, of course this is not limited to your development team, it can also include your management team or other departments that have their own concerns or risk they would like the project to consider.
+1. **Brainstorming**: You are bringing your team members together to discuss with each other what are ways the team can solve a problem and it should be conducted without any judgment as much as possible. This is good in coming up with risks on the spot all at once, of course this is not limited to your development team, it can also include your management team or other departments that have their own concerns or risks they would like the project to consider.
   
 ![Categorize the Risks](/agile-blog/assets/img/managing-project-threats.webp){: .mx-auto.d-block :}
 *Graphic courtesy of [American Management Association](https://www.amanet.org/articles/project-risk-management-4-options-for-managing-threats-to-a-project/)*
 
 
-2. **SWOT Analysis**: 
+2. **SWOT Analysis**:  Which stands for strength, weakness, opportunities and threat. Being able to identify the consequences of a project in the near or far future would help you understand the strengths and weaknesses of the project as well. This is very effective when you are trying to understand the impacts the project would have not only on you as an individual, but its impact on your company or business that you are part of.
+
+
