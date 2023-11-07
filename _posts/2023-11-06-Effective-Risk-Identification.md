@@ -49,6 +49,10 @@ There are a couple of more risk identifying techniques that are out there that y
 
 - If you are really into research and want to learn more about risk management from a scholarly view then I recommend this website. [From the Project Management Institute](https://www.pmi.org/learning/library/risk-identification-life-cycle-tools-7784)
 
-## Resources
+## References
+
+[^1]:”Risk Identification Tools and Techniques” [GreyCampus](https://www.greycampus.com/opencampus/certified-associate-in-project-management/risk-identification-tools-and-techniques-in-capm).
+[^2]: "ChatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382).
+[^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)).
 
 
