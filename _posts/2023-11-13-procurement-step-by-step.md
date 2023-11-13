@@ -6,8 +6,6 @@ cover-img: assets/img/procurement_abstract.jpg
 tags: [procurement,management]
 ---
 
-## Introduction
-
 Procurement processes can seem daunting and complex to new or novice project managers who are just getting started in their careers. However, following a clear, structured procurement practice is absolutely essential for overall project success and staying on budget. 
 
 In this article, I aim to help demystify procurement by providing practical, step-by-step guidance to help even beginning project managers confidently initiate and execute procurements. With straightforward examples and handy checklists, we'll carefully walk through the key steps from planning all the way through to contract execution and signing. My goal is to offer an accessible roadmap and framework so you can avoid common pitfalls and frustration.
