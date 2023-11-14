@@ -24,7 +24,9 @@ There are certain etiquette that is not commonly known once you establish a rela
 
 1.**Not Negotiating**: There a few things to consider before you start negotiating with your sellers and thats to make sure that when you are negotiating you are doing it in a way to benefit both parties and not one-sidedly gaining all the benefits. The point of negotiating with a seller that you plan on having a long-term partnership is to help each other out. 
 
-2.**Ignoring Your Suppliers**: When you decide on having the minimum amount of communication with your suppliers or service providers you are missing out on a great opportunity to make great deals with those outside your organizatoin. It would be for your benefit to continue having friendly relationship with your suppliers whether they are your short-term, one-time, or long-term suppliers. They are your key resource for information about possible good deals, information on resources, and testing new products.
+2.**Ignoring Your Suppliers**: When you decide on having the minimum amount of communication with your suppliers or service providers you are missing out on a great opportunity to make great deals with those outside your organization. It would be for your benefit to continue having friendly relationships with your suppliers whether they are your short-term, one-time, or long-term suppliers. They are your key resource for information about possible good deals, information on resources, and testing new products.
+
+
 
 ## References
 
