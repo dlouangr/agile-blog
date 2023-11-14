@@ -31,6 +31,9 @@ Having grasped the basics, you're now ready to embark on more daring quests in t
 
 ## Mastering the Tools and Technology of Procurement
 
+![eProcurement](/agile-blog/assets/img/eProcurement.png){: .mx-auto.d-block :}
+*Graphic courtesy of [ScrollSocial](https://www.scrollsocial.in/choosing-the-best-eprocurement-solution/)*
+
 As you advance, you'll discover that technology is your trusty companion, streamlining the procurement process. With the right tools in hand, you'll find the path smoother and more efficient:
 
 - **eProcurement Systems[^2]:** These systems automate procurement, making it more efficient and reducing the chances of errors. They often include features for supplier management, sourcing, and contract management.
@@ -46,6 +49,9 @@ Our journey takes a global twist, as procurement often involves navigating inter
 - **Customs and Import Regulations[^3]:** Navigating customs and import regulations is a vital skill for global procurement. Understanding the necessary paperwork and procedures for legal and efficient importation is crucial.
 
 ## Embracing Sustainable Procurement Practices
+
+![Sustainable Procurement](/agile-blog/assets/img/Sustainable_Procurement.jpg){: .mx-auto.d-block :}
+*Graphic courtesy of [Procurious](https://www.procurious.com/procurement-news/introduce-sustainable-procurement-strategy)*
 
 With sustainability at the forefront, advanced project procurement managers embrace environmentally responsible practices:
 
