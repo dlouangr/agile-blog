@@ -13,3 +13,10 @@ Procurement is receving outside services or goods from outside sources. Since, t
 This is the process where your organization or company make a contract to receive the required goods outside of your organization, you can either be a buyer or seller in this process. This blog will go through the most common challenges and pitfalls that you will face when you begin your project management journey, and what to receive services or resources that would be helpful to the success of your project. 
 
 ## Common Pitfalls and Challenges
+
+
+## References
+
+[^1]:”Risk Identification Tools and Techniques” [GreyCampus](https://www.greycampus.com/opencampus/certified-associate-in-project-management/risk-identification-tools-and-techniques-in-capm).
+[^2]: "ChatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382).
+[^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)).
