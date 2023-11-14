@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embarking on a Journey of Project Procurement Mastery
-cover-img: assets/img/Project_Procurement.jpg
+cover-img: assets/img/Project_Procurement.png
 tags: [procurement management]
 ---
 # Embarking on a Journey of Project Procurement Mastery
