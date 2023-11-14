@@ -32,7 +32,7 @@ Having grasped the basics, you're now ready to embark on more daring quests in t
 ## Mastering the Tools and Technology of Procurement
 
 ![eProcurement](/agile-blog/assets/img/eProcurement.jpg){: .mx-auto.d-block :}
-*Graphic courtesy of [ScrollSocial](https://www.scrollsocial.in/choosing-the-best-eprocurement-solution/)*
+*Graphic courtesy of [8 Ways Your Business Can Benefit from E-Procurement](https://proqura.com/blog/8-ways-business-can-benefit-from-eprocurement)*
 
 As you advance, you'll discover that technology is your trusty companion, streamlining the procurement process. With the right tools in hand, you'll find the path smoother and more efficient:
 
