@@ -2,7 +2,7 @@
 layout: post
 title: Common Pitfalls and Challenges in Procurement Management
 subtitle: Practical Tips and Strategies to Overcome These Hurdles
-cover-img: assets/img/
+cover-img: assets/img/Project-Procurement-Management.avif
 tags: [procurement,agile,management]
 ---
 
@@ -20,6 +20,6 @@ This is the process where your organization or company make a contract to receiv
 
 ## References
 
-[^1]:”Risk Identification Tools and Techniques” [GreyCampus](https://www.greycampus.com/opencampus/certified-associate-in-project-management/risk-identification-tools-and-techniques-in-capm).
+[^1]:”What is Project Procurement Management” [Wrike](https://www.wrike.com/project-management-guide/faq/what-is-project-procurement-management/).
 [^2]: "ChatGPT"[openAI](https://chat.openai.com/c/35261832-8011-4c3e-af2c-9dd5547b3382).
 [^3]: "Information Technology Project Management"[SCHWALBE](https://handoutset.com/wp-content/uploads/2022/05/Information-Technology-Project-Management-Kathy-Schwalbe.pdf)).
