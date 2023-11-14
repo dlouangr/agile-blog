@@ -32,7 +32,15 @@ There are certain etiquette that is not commonly known once you establish a rela
 
 5. **Going Over Budget**: I get it that we love to spend money and especially on things that we believe are going to be useful or make some good memories. However, we cannot apply this concept when it comes to the project you are in charge of. It is very easy for any project manager to lose sight of the spending that has been used to produce the product which will more often than not result in overspending for the product. Your company will not be happy and especially so if the project results in a failure or was not able to go past the prototype stage.
 
-6. **Suppliers Lacking Business Transparency**: Although we don't really think about it, organizations have a tendency to repress important information that could challenge the completion of a product or result in the delay of products being sent from the suppliers factories. This will harm your relationship with the supplier if you decide to hade any information and vice-versa so it would be in your best interest that everyone is honest with each other. 
+6. **Suppliers Lacking Business Transparency**: Although we don't really think about it, organizations have a tendency to repress important information that could challenge the completion of a product or result in the delay of products being sent from the suppliers factories. This will harm your relationship with the supplier if you decide to hade any information and vice-versa so it would be in your best interest that everyone is honest with each other.
+
+## Solutions
+
+When you are in Agile and with the constant growth mindset that seeks to improve each project after every opportunity given to provide a service to your customer, hopefully you can already see some solutions that would offset some of the challenges already discussed in this blog post. Of course there are plenty of more challenges and pitfalls that are present within the project procurement management process, the resources are down below if you want to learn more. However, in this section we will be going over what are some ways you can take as a project manager to avoid these pitfalls. 
+
+- Documentation: It is your friend and will be the most common practice that you will be doing in Agile. The reason is it works in not only keeping track of your budget, but helping you in case problems arise like your supplier is unable to complete their end of the deal, contracts will help you out resolve any issues that could arise in that sort of situation.
+  
+- Communicating: Talking with your stakeholders and getting clear requirements on what they are expecting and continuously updating on the progress of each stage and with your suppliers. Your suppliers are people and they can provide ways they can be of better service.
 
 ## References
 
