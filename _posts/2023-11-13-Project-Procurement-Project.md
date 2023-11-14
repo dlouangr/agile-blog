@@ -30,7 +30,9 @@ There are certain etiquette that is not commonly known once you establish a rela
 
 4. **Not Clarifying Requirements or Specifications**: I think this should be pretty straight forward, if you yourself as the project manager do not know what supplies you need or was given vague description of the things that would help you complete the project, your suppliers don't know what they should give you and how exactly can they be of service. Not only would this seem like a bad joke, it would definitely make you seem like a noob who doesn't understand what they are doing. This is not something that you would want to remember or be a part of, so continue reading to get a better heading on how to become a better project manager when it comes to procurement.
 
-5. **Going Over Budget**: 
+5. **Going Over Budget**: I get it that we love to spend money and especially on things that we believe are going to be useful or make some good memories. However, we cannot apply this concept when it comes to the project you are in charge of. It is very easy for any project manager to lose sight of the spending that has been used to produce the product which will more often than not result in overspending for the product. Your company will not be happy and especially so if the project results in a failure or was not able to go past the prototype stage.
+
+6. **Suppliers Lacking Business Transparency**: Although we don't really think about it, organizations have a tendency to repress important information that could challenge the completion of a product or result in the delay of products being sent from the suppliers factories. This will harm your relationship with the supplier if you decide to hade any information and vice-versa so it would be in your best interest that everyone is honest with each other. 
 
 ## References
 
