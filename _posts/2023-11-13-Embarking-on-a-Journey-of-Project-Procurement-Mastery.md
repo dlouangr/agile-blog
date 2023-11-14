@@ -31,7 +31,7 @@ Having grasped the basics, you're now ready to embark on more daring quests in t
 
 ## Mastering the Tools and Technology of Procurement
 
-![eProcurement](/agile-blog/assets/img/eProcurement.png){: .mx-auto.d-block :}
+![eProcurement](/agile-blog/assets/img/eProcurement.jpg){: .mx-auto.d-block :}
 *Graphic courtesy of [ScrollSocial](https://www.scrollsocial.in/choosing-the-best-eprocurement-solution/)*
 
 As you advance, you'll discover that technology is your trusty companion, streamlining the procurement process. With the right tools in hand, you'll find the path smoother and more efficient:
